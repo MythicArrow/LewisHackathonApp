@@ -16,4 +16,10 @@ pip install pygame
 
 Other libraries doesn't need this commands because they are already built-in.
 
+Gameplay:
 
+![Ekran Görüntüsü (152)](https://github.com/user-attachments/assets/0ecd0bc8-fd9a-434f-b3fb-aee7f01c2f9a)
+
+![Ekran Görüntüsü (153)](https://github.com/user-attachments/assets/76f31ac3-fe5e-4fe5-8317-9d3a4c3049e6)
+
+![Ekran Görüntüsü (155)](https://github.com/user-attachments/assets/159b699a-a812-4d2f-a15c-c9e5bc12ae01)
